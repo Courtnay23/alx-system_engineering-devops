@@ -1,3 +1,2 @@
 #!/bin/bash
-#Prints the directory path
 pwd
