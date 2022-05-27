@@ -1,2 +1,2 @@
-#!/bin/bash
-chmod 634 hello 
+#!/bin/sbah
+chmod 664 hello 
